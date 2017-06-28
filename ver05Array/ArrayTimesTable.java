@@ -1,11 +1,9 @@
-package timesTable.ver06Array;
-
-import java.util.Scanner;
+package timesTable.ver05Array;
 
 /**
  * Created by taemi on 2017-06-28.
  */
-public class arrayTimesTable {
+public class ArrayTimesTable {
     public static void main(String[] args) {
         for (int j = 2; j <10 ; j++) {
             int[] times = new int[9];

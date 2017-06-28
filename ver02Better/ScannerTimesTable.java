@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by taemi on 2017-06-28.
  */
-public class scannerTimesTable {
+public class ScannerTimesTable {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("출력할 단을 입력하시오 : ");

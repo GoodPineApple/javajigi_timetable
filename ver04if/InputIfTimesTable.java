@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by taemi on 2017-06-28.
  */
-public class inputIfTimesTable {
+public class InputIfTimesTable {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         boolean isValidated = true;
